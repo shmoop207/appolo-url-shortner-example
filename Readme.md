@@ -1,8 +1,8 @@
-## Appolo Todo List example.
+## Appolo Url Shortner Example.
 
-Build a todo list with [Appolo](https://appolojs.com/), VueJs and MonogDB
+Build a todo list with [Appolo](https://appolojs.com/) and MonogDB
 
-vue client from [NodeJs-Todo-List](https://github.com/abiodunjames/NodeJs-Todo-List) 
+vue client from [codedamn-classrooms](https://github.com/codedamn-classrooms/node-mongodb-url-shortner) 
 
 **Install**
 
@@ -11,14 +11,9 @@ npm install
 
 ```
 
-**Build**
-
-```
-npm run build
-
-```
 
 **Run**
+set ENV MONGO  = to your mongo url
 
 ```
 node app.js
