@@ -1,0 +1,31 @@
+{
+	"name": "appolo-url-shortner-example",
+	"version": "1.0.0",
+	"main": "index.js",
+	"author": "roman svichar <shmoop207@gmail.com>",
+	"license": "MIT",
+	"scripts": {
+		"start": "node app.js"
+	},
+	"dependencies": {
+		"@appolo/core": "^8.0.5",
+		"@appolo/logger": "^8.0.4",
+		"@appolo/mongo": "^8.0.0",
+		"@appolo/validator": "^8.0.0",
+		"@appolo/view": "^8.0.1",
+		"@types/nanoid": "^2.1.0",
+		"body-parser": "^1.19.0",
+		"cors": "^2.8.5",
+		"ejs": "^3.1.5",
+		"nanoid": "^3.1.16",
+		"serve-static": "^1.14.1",
+		"shortid": "^2.2.16",
+		"tslib": "^2.0.3"
+	},
+	"devDependencies": {
+		"@types/mongoose": "^5.7.37",
+		"@types/node": "^14.14.6",
+		"@types/shortid": "0.0.29",
+		"typescript": "^4.0.5"
+	}
+}
