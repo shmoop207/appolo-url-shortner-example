@@ -2,7 +2,7 @@
 
 Build a todo list with [Appolo](https://appolojs.com/) and MonogDB
 
-vue client from [codedamn-classrooms](https://github.com/codedamn-classrooms/node-mongodb-url-shortner) 
+client from [codedamn-classrooms](https://github.com/codedamn-classrooms/node-mongodb-url-shortner) 
 
 **Install**
 
